@@ -42,6 +42,8 @@ p {
 .font2, 
 .font3 {
   border: thin solid rgba(224, 153, 201, 0.945);
+  margin-right: 40px;
+  margin-bottom: 10px;
 }
 
 /*Header*/
@@ -56,6 +58,13 @@ header h1 {
 
 .colors-subcontainer {
   display: inline-block;
+}
+
+.color1,
+.color2,
+.color3,
+.color4 {
+  padding: 0 40px;
 }
 
 .color1 {
