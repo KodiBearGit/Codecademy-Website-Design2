@@ -54,6 +54,10 @@ header h1 {
 
 /*Colors*/
 
+.colors-subcontainer {
+  display: inline-block;
+}
+
 .color1 {
   background-color: rgb(125, 218, 113);
 }
