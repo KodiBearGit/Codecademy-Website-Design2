@@ -8,7 +8,7 @@ font-family: 'Kanit', sans-serif;
 html {
   font-size: 16px;
   text-align: center;
-  background-color: rgb(224, 218, 218);
+  background-color: rgb(245, 237, 237);
   font-family: 'Kanit', sans-serif;
 }
 
@@ -36,6 +36,12 @@ p {
 
 .box h1 {
   border-bottom: thin solid rgba(15, 15, 19, 0.945);
+}
+
+.font1,
+.font2, 
+.font3 {
+  border: thin solid rgba(224, 153, 201, 0.945);
 }
 
 /*Header*/
