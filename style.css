@@ -1,7 +1,13 @@
 /*All */
-
+html {
+  font-size: 16px;
+}
 
 /*Header*/
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
 
 /*Colors*/
 
