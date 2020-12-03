@@ -30,7 +30,7 @@ NA
 None
 
 ## Status
-Project is: final 
+Project is: final
 
 ## Inspiration
 Codecademy Build a Website Design System project.
