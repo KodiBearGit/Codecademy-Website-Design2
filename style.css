@@ -1,13 +1,21 @@
+/* Fonts available from html
+font-family: 'Barlow', sans-serif;
+font-family: 'Courier Prime', monospace;
+font-family: 'Kanit', sans-serif;
+*/
+
 /* Universal Styles */
 html {
   font-size: 16px;
   text-align: center;
   background-color: rgb(224, 218, 218);
+  font-family: 'Kanit', sans-serif;
 }
 
 h1 {
   font-size: 3rem;
   font-weight: 700;
+  margin: 0 auto;
 }
 
 h2 {
@@ -23,18 +31,29 @@ p {
 .box {
   border: medium double rgba(15, 15, 19, 0.945);
   margin: 10px auto;
+  border-radius: 4px;
+}
+
+.box h1 {
+  border-bottom: thin solid rgba(15, 15, 19, 0.945);
 }
 
 /*Header*/
-
 header h1 {
-  margin: 0 auto;
+  font-size: 3.5rem;
+  font-weight: 900;
 }
+
 /*Colors*/
 
 /*Font*/
 
 /*Styles*/
+.style1 h1 {
+  border: none;
+}
+
 .styles-subcontainer {
   text-align: left;
+  padding-left: 20px;
 }
