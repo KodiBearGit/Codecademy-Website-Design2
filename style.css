@@ -1,16 +1,40 @@
-/*All */
+/* Universal Styles */
 html {
   font-size: 16px;
+  text-align: center;
+  background-color: rgb(224, 218, 218);
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400
+}
+
+.box {
+  border: medium double rgba(15, 15, 19, 0.945);
+  margin: 10px auto;
 }
 
 /*Header*/
-h1 {
-  font-size: 2rem;
-  text-align: center;
-}
 
+header h1 {
+  margin: 0 auto;
+}
 /*Colors*/
 
 /*Font*/
 
 /*Styles*/
+.styles-subcontainer {
+  text-align: left;
+}
