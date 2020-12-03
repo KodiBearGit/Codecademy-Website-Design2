@@ -48,11 +48,39 @@ p {
 header h1 {
   font-size: 3.5rem;
   font-weight: 900;
+  color: rgba(55, 10, 66, 0.657);
+  letter-spacing: 4px;
 }
 
 /*Colors*/
 
+.color1 {
+  background-color: rgb(125, 218, 113);
+}
+
+.color2 {
+  background-color: rgba(36, 116, 26, 0.76);
+}
+
+.color3 {
+  background-color: rgba(10, 62, 235, 0.76);
+}
+
+.color4 {
+  background-color: rgba(195, 0, 255, 0.76);
+}
+
 /*Fonts*/
+.fonts-subcontainer {
+  text-align: left;
+
+}
+
+.font,
+.example-container {
+  padding-left: 20px;
+}
+
 .font1 {
   font-family: 'Kanit', sans-serif;
 }
